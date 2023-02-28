@@ -8,7 +8,7 @@
 
 import requests
 
-api_key = "0dce4b48757da334873956be36c05404"
+api_key = {your key here}
 
 def display_weather(data):
     """displays weather passed to it from get_weather"""
